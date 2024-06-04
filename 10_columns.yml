@@ -5,7 +5,7 @@ tasks:
     table: REPLACE_ME
     # To improve performance, consider specifying multiple wlkjhorkers (workers >1) and increasing batch size.
     # workers: 2
-    key: REPLACE_ME
+    key: REPLACE_MEdsfsdf
     rules: 
       - column: REPLACE_ME
         masks:
