@@ -9,5 +9,5 @@ tasks:
     rules: sdfsdf
       - column: REPLACE_ME
         masks:
-          - type: from_fixed
+          - type: from_fixed,m
             value: REPLACE_ME
