@@ -7,7 +7,7 @@ tasks:
     # workers: 2
     key: REPLACE_ME
     rules: 
-      - column: REPLACE_MEsdfsdf
+      - column: REPLACE_ME
         masks:
           - type: from_fixed
-            value: REPLACE_ME
+            value: REPLACE_MEsdfsdf
