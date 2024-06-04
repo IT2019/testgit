@@ -6,7 +6,7 @@ tasks:
     # To improve performance, consider specifying multiple workers (workers >1) and increasing batch size.
     # workers: 2
     key: REPLACE_ME
-    rules: 
+    rules: aaa
       - column: REPLACE_ME
         masks:
           - type: from_fixed
