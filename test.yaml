@@ -8,6 +8,6 @@ tasks:
     key: REPLACE_ME
     rules: 
       - column: REPLACE_ME
-        masks:âasfdasdsad
+        masks:
           - type: from_fixed
-            value: REPLACE_ME
+            value: REPLACE_MEdsgvfsdadsvbsvd
