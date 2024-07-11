@@ -1,0 +1,10 @@
+version: '1.0'
+tasks:
+  - type: mask_table
+    table: ssn_table
+    key:
+      - id
+    rules:
+      - column: ssn
+        masks:
+          - type: do_nothing
